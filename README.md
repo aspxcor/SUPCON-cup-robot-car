@@ -1,5 +1,5 @@
 # 中控杯机器人项目 | The SUPCON Cup Robot Car Project
-## 介绍| Introduction
+## 介绍 | Introduction
 2019年，我们参加了浙江大学中央控制杯机器人设计大赛，这是我们在比赛期间的代码。
 
   In 2019, we participated in the Zhejiang University Central Control Cup Robot Design Competition, this is our code source during the game.
@@ -19,6 +19,7 @@ Master：主要程序
 4.其他对象：现实世界对象的ADT
 
 Master: the main procedure
+
 1. Arm: The servos controlled by the Raspberry Pi
 2. Car: The wheels and the infrared sensors (controlled by Mega 2560)
 3. Camera: the camera used to detect objects
