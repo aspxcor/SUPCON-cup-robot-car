@@ -1,6 +1,6 @@
 # 中控杯机器人项目 | The SUPCON Cup Robot Car Project
 ## About Me
-Myy Blog: htttp://dingzhi.ga
+Myy Blog: http://dingzhi.ga
 ## 介绍 | Introduction
 2019年，我们参加了浙江大学中央控制杯机器人设计大赛，这是我们在比赛期间的代码。
 
